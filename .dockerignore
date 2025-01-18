@@ -1,0 +1,22 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+
+# Ignore logs
+*.log
+
+# Ignore large or sensitive files
+*.zip
+*.pcap
+*.csv
+
+# Ignore version control system files
+.git
+
