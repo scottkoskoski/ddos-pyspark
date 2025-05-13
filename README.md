@@ -46,7 +46,7 @@ The project uses a `Dockerfile` to create a containerized environment. Follow th
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/ddos-pyspark.git
+git clone https://github.com/scottkoskoski/ddos-pyspark.git
 cd ddos-pyspark
 ```
 
